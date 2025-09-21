@@ -19,7 +19,7 @@ This work builds upon our previous project:
 
 ---
 
-## 🚀 Usage  
+## Usage  
 
 ```bash
 # Calculate bounds
@@ -30,3 +30,23 @@ python fig_2.py
 
 # Reproduce Figures 3 and 4 (requires gamma_20000.csv and lognormal_20000.csv)
 python fig_3-4.py
+
+---
+
+## Citation
+
+If you use this code, please
+
+@inproceedings{YourName2025jensen,
+  title     = {Tight Bounds for Jensen’s Gap with Applications to Variational Inference},
+  author    = {Your Name and Co-authors},
+  booktitle = {Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)},
+  year      = {2025}
+}
+
+@inproceedings{YourName2023vae,
+  title     = {Bounding Evidence and Estimating Log-Likelihood in VAE},
+  author    = {Your Name and Co-authors},
+  booktitle = {Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  year      = {2023}
+}
