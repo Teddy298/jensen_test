@@ -15,7 +15,7 @@ This work builds upon our previous project:
 - `bounds.py` — script for calculating the proposed bounds.  
 - `fig_2.py` — reproduces Figure 2 from the paper.  
 - `fig_3-4.py` — reproduces Figures 3 and 4 from the paper.  
-- `gamma_20000.csv`, `lognormal_20000.csv` — samples for experiments in Figures 3 and 4.  
+- `gamma_20000.csv`, `lognormal_20000.csv` — samples for experiment in Figure 3.  
 
 ---
 
@@ -23,7 +23,7 @@ This work builds upon our previous project:
 
 ```bash
 # Create .npz file
-bash calculate_components.sh # from [Bounding Evidence and Estimating Log-Likelihood in VAE (AISTATS 2023)](https://github.com/gmum/Bounding_Evidence_Estimating_LL)
+bash calculate_components.sh # from [Bounding Evidence and Estimating Log-Likelihood in VAE (AISTATS 2023)](https://github.com/gmum/Bounding_Evidence_Estimating_LL).  
 
 # Calculate bounds
 python bounds.py
