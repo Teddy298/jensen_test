@@ -36,7 +36,7 @@ python fig_3-4.py
 
 ## Citation
 
-If you use this code, please
+If you use this code, please cite:
 
 @inproceedings{YourName2025jensen,
   title     = {Tight Bounds for Jensen’s Gap with Applications to Variational Inference},
@@ -45,9 +45,4 @@ If you use this code, please
   year      = {2025}
 }
 
-@inproceedings{YourName2023vae,
-  title     = {Bounding Evidence and Estimating Log-Likelihood in VAE},
-  author    = {Your Name and Co-authors},
-  booktitle = {Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS)},
   year      = {2023}
-}
