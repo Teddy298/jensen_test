@@ -30,6 +30,7 @@ python fig_2.py
 
 # Reproduce Figures 3 and 4 (requires gamma_20000.csv and lognormal_20000.csv)
 python fig_3-4.py
+```
 
 ---
 
