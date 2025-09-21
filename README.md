@@ -37,12 +37,3 @@ python fig_3-4.py
 ## Citation
 
 If you use this code, please cite:
-
-@inproceedings{YourName2025jensen,
-  title     = {Tight Bounds for Jensen’s Gap with Applications to Variational Inference},
-  author    = {Your Name and Co-authors},
-  booktitle = {Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)},
-  year      = {2025}
-}
-
-  year      = {2023}
