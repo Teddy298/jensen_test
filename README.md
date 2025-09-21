@@ -23,7 +23,7 @@ This work builds upon our previous project:
 
 ```bash
 # Create .npz file
-bash calculate_components.sh # from [Bounding Evidence and Estimating Log-Likelihood in VAE (AISTATS 2023)](https://github.com/gmum/Bounding_Evidence_Estimating_LL).  
+bash calculate_components.sh # from https://github.com/gmum/Bounding_Evidence_Estimating_LL  
 
 # Calculate bounds
 python bounds.py
