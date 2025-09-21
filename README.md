@@ -10,7 +10,7 @@ This work builds upon our previous project:
 
 ---
 
-## 📂 Contents  
+## Contents  
 
 - `bounds.py` — script for calculating the proposed bounds.  
 - `fig_2.py` — reproduces Figure 2 from the paper.  
