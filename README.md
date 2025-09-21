@@ -23,7 +23,7 @@ This work builds upon our previous project:
 
 ```bash
 # Create .npz file
-bash [calculate_components.sh](https://github.com/gmum/Bounding_Evidence_Estimating_LL/blob/main/calculate_components.sh)
+bash calculate_components.sh # this file can be taken from https://github.com/gmum/Bounding_Evidence_Estimating_LL/blob/main/calculate_components.sh
 
 # Calculate bounds
 python bounds.py
