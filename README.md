@@ -12,7 +12,7 @@ This work builds upon our previous project:
 
 ## Contents  
 
-- `bounds.py` — script for calculating the proposed bounds.  
+- `bounds.py` — ...  
 - `fig_2.py` — reproduces Figure 2 from the paper.  
 - `fig_3-4.py` — reproduces Figures 3 and 4 from the paper.  
 - `gamma_20000.csv`, `lognormal_20000.csv` — samples for experiment in Figure 3.  
@@ -22,10 +22,10 @@ This work builds upon our previous project:
 ## Usage  
 
 ```bash
-# Create .npz file
+# ...
 bash calculate_components.sh # this file can be taken from https://github.com/gmum/Bounding_Evidence_Estimating_LL/blob/main/calculate_components.sh
 
-# Calculate bounds
+# ...
 python bounds.py
 
 # Reproduce Figure 2
