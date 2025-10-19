@@ -39,4 +39,4 @@ python fig_3-4.py
 
 ## Citation
 
-If you use this code, please cite:
+If you use this code, please cite: ...
