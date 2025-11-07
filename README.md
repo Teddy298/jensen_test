@@ -62,7 +62,7 @@ If you use this code or refer to our results, please cite:
 
 ```bibtex
 @inproceedings{mazur2025tight,
-  title     = {Tight Bounds on Jensen's Gap: Novel Approach with Applications in Generative Modeling},
+  title     = {Tight Bounds for Jensen’s Gap with Applications to Variational Inference},
   author    = {Mazur, Marcin and Dziarmaga, Tadeusz and Ko{\'s}cielniak, Piotr and Struski, {\L}ukasz},
   booktitle = {Proceedings of the 34rd ACM International Conference on Information and Knowledge Management (CIKM)},
   year      = {2025}
